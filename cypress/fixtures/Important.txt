@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=iD5qRL7dI-E
+
+https://www.youtube.com/watch?v=b6Oe2puTdMQ
+
+https://www.youtube.com/watch?v=f6amHU29mY0&list=PLQKg8mIgoxKpabc2THMtnSJNBLIezc4C2&index=4
+
+https://www.youtube.com/watch?v=_xKCi5OI_Mg
+
+https://react-pdf-viewer.dev/examples/preview-a-pdf-file-before-uploading/
+
+https://www.youtube.com/watch?v=ptUBkjVG7dA&list=PLsY8aWop1tAH3dO1SA7ABBWQ-wP8vlzMF&index=1
+
+https://www.google.com/search?q=upload+file+with+preview+MERN+stack&rlz=1C1VDKB_deDE1002DE1002&oq=upload+file+with+preview+MERN+stack&aqs=chrome..69i57j33i160.14577j0j15&sourceid=chrome&ie=UTF-8
+
+https://github.com/myogeshchavan97/react-upload-download-files
+
+https://github.com/johndatserakis/file-upload-with-preview
+
+https://www.educative.io/edpresso/how-to-handle-file-upload-in-expressjs
+
+diff bw local storage,cookies and cache
+use memo and use callbacks
+higher order functions
+
+karachi123987
